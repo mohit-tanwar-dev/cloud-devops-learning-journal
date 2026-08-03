@@ -1,0 +1,33 @@
+name: Docs Sync
+on:
+  schedule:
+    - cron: '27 4 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update notes
+        run: |
+          TODAY=$(TZ='Asia/Kolkata' date '+%Y-%m-%d')
+          TOPICS=("AWS S3 lifecycle" "Docker networking" "Kubernetes pods" "Linux permissions" "Nginx" "Git workflows")
+          TOPIC=${TOPICS[$((RANDOM % ${#TOPICS[@]}))]}
+          mkdir -p notes docs
+          echo "# $TODAY" > notes/${TODAY}.md
+          echo "Topic: $TOPIC" >> notes/${TODAY}.md
+          echo "Revised $TOPIC" >> notes/${TODAY}.md
+          echo "- $TODAY: $TOPIC" >> docs/learning-index.md
+      - name: Commit
+        run: |
+          git config user.name "mohit-tanwar-dev"
+          git config user.email "mohitsingtanwar000@gmail.com"
+          TODAY=$(TZ='Asia/Kolkata' date '+%Y-%m-%d')
+          git add .
+          git diff --staged --quiet && exit 0
+          MSGS=("docs: update notes $TODAY" "Add learning notes $TODAY" "docs: daily update")
+          MSG=${MSGS[$((RANDOM % ${#MSGS[@]}))]}
+          git commit -m "$MSG"
+          git push
