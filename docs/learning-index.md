@@ -4,3 +4,4 @@
 - 2026-08-04: Linux permissions
 - 2026-08-04: AWS S3 lifecycle
 - 2026-08-05: Git workflows
+- 2026-08-08: Docker networking
