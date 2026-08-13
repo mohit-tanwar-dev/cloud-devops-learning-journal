@@ -9,3 +9,4 @@
 - 2026-08-10: Nginx
 - 2026-08-11: Kubernetes pods
 - 2026-08-12: Docker networking
+- 2026-08-13: Nginx
