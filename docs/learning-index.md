@@ -12,3 +12,4 @@
 - 2026-08-13: Nginx
 - 2026-08-14: Git workflows
 - 2026-08-15: Git workflows
+- 2026-08-16: Linux permissions
