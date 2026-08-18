@@ -14,3 +14,4 @@
 - 2026-08-15: Git workflows
 - 2026-08-16: Linux permissions
 - 2026-08-17: Linux permissions
+- 2026-08-18: AWS S3 lifecycle
