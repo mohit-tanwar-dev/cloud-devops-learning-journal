@@ -17,3 +17,4 @@
 - 2026-08-18: AWS S3 lifecycle
 - 2026-08-19: Docker networking
 - 2026-08-20: Kubernetes pods
+- 2026-08-21: Linux permissions
