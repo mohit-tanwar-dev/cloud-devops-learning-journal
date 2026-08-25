@@ -21,3 +21,4 @@
 - 2026-08-22: Git workflows
 - 2026-08-23: Git workflows
 - 2026-08-24: Kubernetes pods
+- 2026-08-25: Git workflows
