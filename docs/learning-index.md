@@ -23,3 +23,4 @@
 - 2026-08-24: Kubernetes pods
 - 2026-08-25: Git workflows
 - 2026-08-26: Linux permissions
+- 2026-08-27: Docker networking
