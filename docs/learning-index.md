@@ -25,3 +25,4 @@
 - 2026-08-26: Linux permissions
 - 2026-08-27: Docker networking
 - 2026-08-28: Docker networking
+- 2026-08-29: Kubernetes pods
