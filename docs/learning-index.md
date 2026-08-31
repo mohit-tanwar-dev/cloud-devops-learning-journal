@@ -27,3 +27,4 @@
 - 2026-08-28: Docker networking
 - 2026-08-29: Kubernetes pods
 - 2026-08-30: Nginx
+- 2026-08-31: Git workflows
