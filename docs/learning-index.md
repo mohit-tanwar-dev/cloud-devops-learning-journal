@@ -28,3 +28,4 @@
 - 2026-08-29: Kubernetes pods
 - 2026-08-30: Nginx
 - 2026-08-31: Git workflows
+- 2026-09-01: AWS S3 lifecycle
