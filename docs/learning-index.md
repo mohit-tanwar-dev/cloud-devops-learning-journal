@@ -29,3 +29,4 @@
 - 2026-08-30: Nginx
 - 2026-08-31: Git workflows
 - 2026-09-01: AWS S3 lifecycle
+- 2026-09-02: Linux permissions
