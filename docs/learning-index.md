@@ -31,3 +31,4 @@
 - 2026-09-01: AWS S3 lifecycle
 - 2026-09-02: Linux permissions
 - 2026-09-03: Docker networking
+- 2026-09-04: Linux permissions
