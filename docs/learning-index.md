@@ -35,3 +35,4 @@
 - 2026-09-05: Linux permissions
 - 2026-09-06: Docker networking
 - 2026-09-07: Git workflows
+- 2026-09-08: Git workflows
