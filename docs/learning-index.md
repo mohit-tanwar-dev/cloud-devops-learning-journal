@@ -45,3 +45,4 @@
 - 2026-09-15: Git workflows
 - 2026-09-16: Docker networking
 - 2026-09-17: Linux permissions
+- 2026-09-18: Kubernetes pods
