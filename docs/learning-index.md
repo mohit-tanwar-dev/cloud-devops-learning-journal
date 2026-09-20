@@ -47,3 +47,4 @@
 - 2026-09-17: Linux permissions
 - 2026-09-18: Kubernetes pods
 - 2026-09-19: Git workflows
+- 2026-09-20: Git workflows
