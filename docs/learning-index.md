@@ -51,3 +51,4 @@
 - 2026-09-21: Nginx
 - 2026-09-22: Nginx
 - 2026-09-23: Kubernetes pods
+- 2026-09-24: Git workflows
