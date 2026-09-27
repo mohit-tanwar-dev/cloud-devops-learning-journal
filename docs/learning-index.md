@@ -54,3 +54,4 @@
 - 2026-09-24: Git workflows
 - 2026-09-25: AWS S3 lifecycle
 - 2026-09-26: Docker networking
+- 2026-09-27: Git workflows
