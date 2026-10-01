@@ -58,3 +58,4 @@
 - 2026-09-28: Git workflows
 - 2026-09-29: Nginx
 - 2026-09-30: Nginx
+- 2026-10-01: AWS S3 lifecycle
