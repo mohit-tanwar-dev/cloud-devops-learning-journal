@@ -67,3 +67,4 @@
 - 2026-10-07: Nginx
 - 2026-10-08: Linux permissions
 - 2026-10-09: AWS S3 lifecycle
+- 2026-10-10: Linux permissions
