@@ -77,3 +77,4 @@
 - 2026-10-17: Linux permissions
 - 2026-10-18: AWS S3 lifecycle
 - 2026-10-19: Nginx
+- 2026-10-20: Git workflows
