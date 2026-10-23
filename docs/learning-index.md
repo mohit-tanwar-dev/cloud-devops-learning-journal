@@ -80,3 +80,4 @@
 - 2026-10-20: Git workflows
 - 2026-10-21: Nginx
 - 2026-10-22: Git workflows
+- 2026-10-23: Kubernetes pods
