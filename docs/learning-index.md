@@ -82,3 +82,4 @@
 - 2026-10-22: Git workflows
 - 2026-10-23: Kubernetes pods
 - 2026-10-24: Docker networking
+- 2026-10-25: Kubernetes pods
