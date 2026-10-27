@@ -84,3 +84,4 @@
 - 2026-10-24: Docker networking
 - 2026-10-25: Kubernetes pods
 - 2026-10-26: Kubernetes pods
+- 2026-10-27: Docker networking
