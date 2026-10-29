@@ -86,3 +86,4 @@
 - 2026-10-26: Kubernetes pods
 - 2026-10-27: Docker networking
 - 2026-10-28: Linux permissions
+- 2026-10-29: Nginx
