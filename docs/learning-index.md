@@ -87,3 +87,4 @@
 - 2026-10-27: Docker networking
 - 2026-10-28: Linux permissions
 - 2026-10-29: Nginx
+- 2026-10-30: Git workflows
