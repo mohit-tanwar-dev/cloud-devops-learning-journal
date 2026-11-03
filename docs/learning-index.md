@@ -91,3 +91,4 @@
 - 2026-10-31: AWS S3 lifecycle
 - 2026-11-01: Linux permissions
 - 2026-11-02: Kubernetes pods
+- 2026-11-03: Kubernetes pods
