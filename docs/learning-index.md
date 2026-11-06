@@ -94,3 +94,4 @@
 - 2026-11-03: Kubernetes pods
 - 2026-11-04: AWS S3 lifecycle
 - 2026-11-05: Git workflows
+- 2026-11-06: Kubernetes pods
