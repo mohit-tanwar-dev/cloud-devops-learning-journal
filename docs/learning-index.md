@@ -98,3 +98,4 @@
 - 2026-11-07: AWS S3 lifecycle
 - 2026-11-08: Kubernetes pods
 - 2026-11-09: Git workflows
+- 2026-11-10: Docker networking
