@@ -101,3 +101,4 @@
 - 2026-11-10: Docker networking
 - 2026-11-11: Git workflows
 - 2026-11-12: Kubernetes pods
+- 2026-11-13: Git workflows
