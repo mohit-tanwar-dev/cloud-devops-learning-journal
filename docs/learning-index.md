@@ -106,3 +106,4 @@
 - 2026-11-15: AWS S3 lifecycle
 - 2026-11-16: Docker networking
 - 2026-11-17: Git workflows
+- 2026-11-18: Linux permissions
