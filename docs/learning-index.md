@@ -109,3 +109,4 @@
 - 2026-11-18: Linux permissions
 - 2026-11-19: Nginx
 - 2026-11-20: Git workflows
+- 2026-11-21: Kubernetes pods
