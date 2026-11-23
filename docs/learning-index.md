@@ -111,3 +111,4 @@
 - 2026-11-20: Git workflows
 - 2026-11-21: Kubernetes pods
 - 2026-11-22: Linux permissions
+- 2026-11-23: Kubernetes pods
