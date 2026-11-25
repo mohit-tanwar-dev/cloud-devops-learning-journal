@@ -113,3 +113,4 @@
 - 2026-11-22: Linux permissions
 - 2026-11-23: Kubernetes pods
 - 2026-11-24: Docker networking
+- 2026-11-25: Kubernetes pods
